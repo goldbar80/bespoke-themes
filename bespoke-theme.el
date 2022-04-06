@@ -228,7 +228,7 @@ subtlety stand out from the mode line and other adjacent faces."
   (setq bespoke-foreground (--l/d "#282b35" "#eceff1"))
   (setq bespoke-background (--l/d "#fffef9" "#282b35"))
 
-  (setq bespoke-modeline   (--l/d "#e3e7ef" "#3c4353"))
+  (setq bespoke-modeline   (--l/d "#fffef9" "#282b35"))
   (setq bespoke-highlight  (--l/d "#dbe1eb" "#444B5c"))
   (setq bespoke-inactive   (--l/d "#cbd3e1" "#525868"))
 
